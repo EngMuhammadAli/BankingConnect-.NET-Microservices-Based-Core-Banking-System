@@ -5,7 +5,7 @@ namespace ApiGateway.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ApiGatewayController : ControllerBase
+    public class FoundTransferController : ControllerBase
     {
     }
 }
