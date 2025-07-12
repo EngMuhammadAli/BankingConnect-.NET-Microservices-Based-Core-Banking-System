@@ -21,7 +21,6 @@
 
   <ItemGroup>
     <Folder Include="Model\" />
-    <Folder Include="DbContext\" />
   </ItemGroup>
 
 </Project>
